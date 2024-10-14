@@ -1,0 +1,112 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "degree": "MD",
+    "institution": "Harvard Medical School",
+    "impactful_experience_1_title": "Chief Resident",
+    "impactful_experience_1_org": "Massachusetts General Hospital",
+    "impactful_experience_1_detail": "During my time as Chief Resident at Massachusetts General Hospital, I led a research initiative aimed at reducing hospital-acquired infections. Over the course of a year, our team reduced infection rates by 20%, improving patient outcomes.",
+    "personal_statement": "Medicine is more than a profession for me—it’s a mission. I aim to lead clinical teams and bring research innovations to practice, as I did with infection control protocols during my residency.",
+    "letters": "To Whom It May Concern, I have had the privilege of working closely with John Doe during his residency at Massachusetts General Hospital. His leadership on our infection control initiative reduced hospital infections by 20%, showcasing his ability to apply evidence-based solutions. I strongly recommend John for any residency program. Sincerely, Dr. Emily Smith."
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "degree": "DO",
+    "institution": "Stanford University School of Medicine",
+    "impactful_experience_1_title": "Research Fellow",
+    "impactful_experience_1_org": "Stanford Hospital",
+    "impactful_experience_1_detail": "As a research fellow, I conducted groundbreaking studies on cardiac arrhythmias. I developed a predictive model that could help reduce the onset of heart disease in high-risk populations.",
+    "personal_statement": "My passion for cardiology began during my rotations at Stanford. The opportunity to combine clinical care with research is where I see myself excelling as a physician-scientist in the future.",
+    "letters": "Dear Residency Committee, Jane Smith has been an exemplary research fellow at Stanford Hospital. Her dedication and innovative thinking have led to substantial advancements in our understanding of cardiac arrhythmias. Jane’s work ethic and her intellectual curiosity will make her a valuable addition to any residency program. Best regards, Dr. Michael Johnson."
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "degree": "MD",
+    "institution": "University of Washington",
+    "impactful_experience_1_title": "Pediatric Volunteer",
+    "impactful_experience_1_org": "Seattle Children's Hospital",
+    "impactful_experience_1_detail": "I worked in the pediatric oncology ward, helping organize events and supporting families through difficult treatments.",
+    "personal_statement": "Working with pediatric cancer patients solidified my desire to enter pediatrics. I am committed to improving the lives of my young patients, both medically and emotionally.",
+    "letters": "Dear Selection Committee, Emily Davis has been an invaluable part of our volunteer team at Seattle Children's Hospital. Her compassion and dedication to helping families in the pediatric oncology unit stood out. I believe she will bring this same level of care and commitment to her residency training. Sincerely, Dr. Anna Stevens."
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Nguyen",
+    "degree": "MD",
+    "institution": "University of California, San Diego",
+    "impactful_experience_1_title": "Clinical Research Assistant",
+    "impactful_experience_1_org": "UC San Diego Health",
+    "impactful_experience_1_detail": "I assisted with data collection and patient follow-ups for a clinical trial on diabetes management.",
+    "personal_statement": "Through my research on diabetes, I developed a keen interest in endocrinology. I want to focus on improving patient care for chronic diseases.",
+    "letters": "To Whom It May Concern, Michael has been a dedicated research assistant on our diabetes management project. His diligence and ability to connect with patients make him well-suited for a clinical environment. I recommend him without reservation. Regards, Dr. Sarah Kim."
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "Garcia",
+    "degree": "DO",
+    "institution": "University of Texas Medical Branch",
+    "impactful_experience_1_title": "Volunteer EMT",
+    "impactful_experience_1_org": "Houston Emergency Services",
+    "impactful_experience_1_detail": "As a volunteer EMT, I handled emergency calls and provided first aid to patients before hospital transport.",
+    "personal_statement": "I thrive in fast-paced environments, and being an EMT gave me first-hand exposure to emergency medicine. I hope to specialize in trauma surgery.",
+    "letters": "Dear Residency Director, Daniel Garcia has been an outstanding volunteer EMT with Houston Emergency Services. He has consistently shown the ability to remain calm under pressure and make quick decisions in critical situations. I fully endorse him for any residency program. Sincerely, Dr. Robert Lee."
+  },
+  {
+    "first_name": "Samantha",
+    "last_name": "Brown",
+    "degree": "MD",
+    "institution": "New York Medical College",
+    "impactful_experience_1_title": "Health Fair Organizer",
+    "impactful_experience_1_org": "NYMC Community Outreach",
+    "impactful_experience_1_detail": "I organized community health fairs to provide free health screenings and education for underprivileged communities.",
+    "personal_statement": "I have always been passionate about community health and preventive medicine. Organizing health fairs helped me realize the importance of education in healthcare.",
+    "letters": "Dear Residency Selection Committee, Samantha Brown has been a strong advocate for community health during her time at NYMC. She is organized, compassionate, and dedicated to serving underprivileged populations. She will make a wonderful addition to any program. Best, Dr. Laura Thompson."
+  },
+  {
+    "first_name": "Paul",
+    "last_name": "Wilson",
+    "degree": "MD",
+    "institution": "Smalltown Medical College",
+    "impactful_experience_1_title": "Office Assistant",
+    "impactful_experience_1_org": "Local Clinic",
+    "impactful_experience_1_detail": "I helped with basic administrative tasks such as filing patient records and scheduling appointments.",
+    "personal_statement": "I haven’t had much exposure to clinical work, but I’m eager to learn more about medicine through residency training.",
+    "letters": "To Whom It May Concern, Paul worked with us in a basic capacity at our clinic. While his clinical experience is limited, he showed a willingness to learn. I believe he would benefit from further clinical exposure. Regards, Dr. Matthew Green."
+  },
+  {
+    "first_name": "Lisa",
+    "last_name": "Martinez",
+    "degree": "MD",
+    "institution": "Midtown Medical School",
+    "impactful_experience_1_title": "Volunteer",
+    "impactful_experience_1_org": "Health Fair",
+    "impactful_experience_1_detail": "I helped hand out flyers and direct people to different health booths during the fair.",
+    "personal_statement": "I don’t have much hands-on clinical experience, but I want to be a doctor because it sounds interesting and I like helping people.",
+    "letters": "Dear Selection Committee, Lisa Martinez was a volunteer at our health fair. While she was reliable, she didn’t take on much responsibility or leadership. She might require additional guidance and motivation during residency training. Best regards, Dr. Amy Walters."
+  },
+  {
+    "first_name": "James",
+    "last_name": "Lee",
+    "degree": "MD",
+    "institution": "Unknown Medical Institute",
+    "impactful_experience_1_title": "Shadowed a Doctor",
+    "impactful_experience_1_org": "General Practice",
+    "impactful_experience_1_detail": "I shadowed a doctor for a couple of weeks but didn’t get to do much.",
+    "personal_statement": "I hope to become a doctor, but I’m not sure which field yet. I’m looking for a residency to help me figure out my interests.",
+    "letters": "To Whom It May Concern, James shadowed me for a brief period. He observed some of my work but didn’t engage deeply. His interest in medicine is still developing, and he may need more guidance during residency. Sincerely, Dr. Jennifer Adams."
+  },
+  {
+    "first_name": "Kevin",
+    "last_name": "Baker",
+    "degree": "MD",
+    "institution": "Low-Ranked Medical School",
+    "impactful_experience_1_title": "Medical Records Clerk",
+    "impactful_experience_1_org": "Local Hospital",
+    "impactful_experience_1_detail": "I filed medical records and occasionally delivered paperwork between departments.",
+    "personal_statement": "I’m still figuring out what part of medicine interests me the most, but I think being a doctor would be a stable career.",
+    "letters": "Dear Residency Director, Kevin worked in the medical records department at our hospital. He completed tasks but showed little initiative to go beyond basic responsibilities. He may need significant guidance and support during residency. Best regards, Dr. Laura Miller."
+  }
+]
